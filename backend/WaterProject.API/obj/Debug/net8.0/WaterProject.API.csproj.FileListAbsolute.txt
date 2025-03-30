@@ -52,6 +52,7 @@ C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\Wa
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.csproj.CoreCompileInputs.cache
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.sourcelink.json
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\scopedcss\bundle\WaterProject.API.styles.css
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -62,10 +63,10 @@ C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\st
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WaterProject.API.props
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WaterProject.API.props
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterPro.EB763448.Up2Date
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.dll
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\refint\WaterProject.API.dll
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.pdb
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\WaterProject.API.genruntimeconfig.cache
 C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net8.0\ref\WaterProject.API.dll
+C:\Users\grace\Desktop\WaterProject\backend\WaterProject.API\bin\Debug\net8.0\WaterProject.sqlite

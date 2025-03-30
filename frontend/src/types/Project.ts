@@ -4,6 +4,6 @@ export interface Project {
   projectType: string;
   projectRegionalProgram: string;
   projectImpact: number;
-  ProjectPhase: string;
+  projectPhase: string;
   projectFunctionalityStatus: string;
 }

@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@thumbmarkjs/thumbmarkjs": "^0.19.1",
+    "bootstrap": "^5.3.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-cookie-consent": "^9.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.4.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
